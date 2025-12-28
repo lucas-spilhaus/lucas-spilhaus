@@ -1,7 +1,7 @@
 ## Hi there 👋
 
- I'm Lucas Spilhaus and welcome to my GitHub page.
-### Here you'll find various projects from my time at Dev Academy and a few of my own personal ones.
+I'm Lucas Spilhaus and welcome to my GitHub page.
+Here you'll find various projects from my time at Dev Academy and a few of my own personal ones.
 
 <!--
 **lucas-spilhaus/lucas-spilhaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
