@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I'm Lucas Spilhaus and welcome to my GitHub page.
+ I'm Lucas Spilhaus and welcome to my GitHub page.
 ### Here you'll find various projects from my time at Dev Academy and a few of my own personal ones.
 
 <!--
