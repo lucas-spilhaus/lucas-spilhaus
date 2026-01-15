@@ -7,6 +7,8 @@ Here are a couple small projects I've completed or worked on through Dev Academy
 https://github.com/lucas-spilhaus/todo-full-stack  
 https://github.com/lucas-spilhaus/dreamfest
 
+Dev Academy often has us work on incomplete websites or websites with the foundations built as a way to practice new skills. The above two projects are examples of this. Todo full stack required me to create a application where users could easily add and interact with todos by deleting or marking them complete.  Dreamfest was largely already completed, the front-end specifically was basically finished, but required me to set up database calls to allow users to interact with the data stored. I also did small bug-fixing, accessiblity changes, and testing implementation.
+
 And here is my final group project:  
 https://github.com/Karengo-2025/Messaging-App/branches
 
